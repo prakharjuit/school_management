@@ -9,13 +9,14 @@ Access records, view marks, and communicate effortlessly.
 </h3>
 
 <br>
-[Youtube Video](https://youtu.be/ol650KwQkgY?si=rKcboqSv3n-e4UbC)
-<br><br>
-[LinkedIn](https://www.linkedin.com/in/yogndr/)
 
 # About
 
 The School Management System is a web-based application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It aims to streamline school management, class organization, and facilitate communication between students, teachers, and administrators.
+![image](https://github.com/user-attachments/assets/d565467d-eb6d-48e1-bb97-5de81ce8d517)
+
+![image](https://github.com/user-attachments/assets/4902c9d2-af8c-48c9-956b-f5bb60111691)
+
 
 ## Features
 
@@ -23,13 +24,6 @@ The School Management System is a web-based application built using the MERN (Mo
 
 - **Admin Dashboard:** Administrators can add new students and teachers, create classes and subjects, manage user accounts, and oversee system settings.
 
-- **Attendance Tracking:** Teachers can easily take attendance for their classes, mark students as present or absent, and generate attendance reports.
-
-- **Performance Assessment:** Teachers can assess students' performance by providing marks and feedback. Students can view their marks and track their progress over time.
-
-- **Data Visualization:** Students can visualize their performance data through interactive charts and tables, helping them understand their academic performance at a glance.
-
-- **Communication:** Users can communicate effortlessly through the system. Teachers can send messages to students and vice versa, promoting effective communication and collaboration.
 
 ## Technologies Used
 
